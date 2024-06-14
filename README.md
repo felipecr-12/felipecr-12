@@ -1,5 +1,10 @@
+<div>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fc/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fc/512.gif" alt="✌" width="32" height="32"> 
+</picture>
+</div>
 
-## Hey! 🖐️
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
